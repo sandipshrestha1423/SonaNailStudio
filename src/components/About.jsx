@@ -1,11 +1,10 @@
+import aboutImage from "../assets/images/about-nails.webp";
+
 function About() {
   return (
     <section className="about" id="about">
       <div className="about-image">
-        <img
-          src="/src/assets/about-nails.webp"
-          alt="Sona Nail Studio"
-        />
+        <img src={aboutImage} alt="Sona Nail Studio" />
       </div>
 
       <div className="about-content">

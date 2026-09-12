@@ -1,3 +1,5 @@
+import academyImage from "../assets/images/academy.jpg";
+
 function Academy() {
   return (
     <section className="academy" id="academy">
@@ -33,21 +35,13 @@ function Academy() {
           </div>
         </div>
 
-        <a
-          href="https://wa.me/9779741867787"
-          target="_blank"
-          rel="noreferrer"
-          className="primary-button"
-        >
+        <a href="#contact" className="primary-button">
           Ask About Courses
         </a>
       </div>
 
       <div className="academy-image">
-        <img
-          src="/src/assets/academy.jpg"
-          alt="Nail Training Academy"
-        />
+        <img src={academyImage} alt="Nail training academy" />
       </div>
     </section>
   );

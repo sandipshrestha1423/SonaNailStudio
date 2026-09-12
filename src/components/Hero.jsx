@@ -1,3 +1,5 @@
+import heroImage from "../assets/images/hero-nails.webp";
+
 function Hero() {
   return (
     <section className="hero" id="home">
@@ -16,25 +18,18 @@ function Hero() {
         </p>
 
         <div className="hero-buttons">
-          <a
-            href="https://wa.me/779741867787"
-            className="primary-button"
-            target="_blank"
-          >
-            WhatsApp Us
+          <a href="#contact" className="primary-button">
+            Contact Us
           </a>
 
-          <a
-            href="tel:+9779741867787"
-            className="secondary-button"
-          >
+          <a href="tel:+9779741867787" className="secondary-button">
             Call Us
           </a>
         </div>
       </div>
 
       <div className="hero-image">
-        <img src="/src/assets/hero-nails.webp" alt="Beautiful nail design" />
+        <img src={heroImage} alt="Beautiful nail design" />
       </div>
     </section>
   );
