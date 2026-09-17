@@ -21,7 +21,9 @@ body {
   font-family: Arial, sans-serif;
   color: var(--purple);
   background-color: var(--light);
-}/* Navbar */
+}
+
+/* Navbar */
 
 .navbar {
   width: 100%;

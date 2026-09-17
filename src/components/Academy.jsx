@@ -4,13 +4,13 @@ function Academy() {
   return (
     <section className="academy" id="academy">
       <div className="academy-content">
-        <p className="section-small-title">SONA NAIL ACADEMY</p>
+        <p className="section-small-title">SONA'S NAIL ACADEMY</p>
 
         <h2>Turn Your Passion Into a Skill</h2>
 
         <p>
           Learn professional nail techniques and build your confidence with
-          practical nail training at Sona Nail Studio & Academy.
+          practical nail training at Sona's Nail Studio & Academy.
         </p>
 
         <div className="academy-points">

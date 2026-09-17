@@ -7,7 +7,7 @@ function Hero() {
         <p className="welcome-text">WELCOME TO</p>
 
         <h1>
-          Sona Nail Studio
+          Sona's Nail Studio
           <br />
           <span>& Academy</span>
         </h1>

@@ -5,6 +5,10 @@ function Services() {
       description: "Beautiful and long-lasting nail extensions for every style."
     },
     {
+      name: "Lashes Extensions and lifting",
+      description: "Beautiful and long-lasting lash extensions for every style."
+    },
+    {
       name: "Nail Art",
       description: "Creative and stylish nail designs made just for you."
     },
@@ -14,6 +18,10 @@ function Services() {
     },
     {
       name: "Nail Polish",
+      description: "Elegant colors and finishes to complete your look."
+    },
+    {
+      name: "Facial",
       description: "Elegant colors and finishes to complete your look."
     }
   ];

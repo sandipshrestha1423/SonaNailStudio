@@ -17,7 +17,7 @@ function About() {
         </h2>
 
         <p>
-          At Sona Nail Studio & Academy, we believe that beautiful nails
+          At Sona's Nail Studio & Academy, we believe that beautiful nails
           are a way to express your personality and style.
         </p>
 

@@ -2,7 +2,7 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="footer-logo">
-        <h2>SONA</h2>
+        <h2>SONA'S</h2>
         <p>NAIL STUDIO & ACADEMY</p>
       </div>
 
@@ -19,7 +19,7 @@ function Footer() {
       </div>
 
       <p className="copyright">
-        © 2026 Sona Nail Studio & Academy. All Rights Reserved.
+        © 2026 Sona's Nail Studio & Academy. All Rights Reserved.
       </p>
     </footer>
   );

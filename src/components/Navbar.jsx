@@ -10,7 +10,7 @@ function Navbar() {
   return (
     <header className="navbar">
       <a href="#home" className="logo" onClick={closeMenu}>
-        <span className="logo-main">SONA</span>
+        <span className="logo-main">SONA'S</span>
         <span className="logo-sub">NAIL STUDIO & ACADEMY</span>
       </a>
 
